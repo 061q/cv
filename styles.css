@@ -1,0 +1,16 @@
+h1{
+    color:aqua;
+}
+h2{
+    color:aqua;
+}
+body{
+    background-color:white;
+}
+hr{
+    border-style:dotted none none;
+    border-color: grey;
+    border-width :5px;
+    width:10%
+
+}
